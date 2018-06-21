@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Bem-vindo ao MeawPad</string>
+    <string name="erro_firebase">Erro na conexão com Firebase</string>
+    <string name="hint_tag">Digite sua tag aqui</string>
+    <string name="falta_tag">Insira uma TAG para Salvar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="explanation">Com o incrivel MeawPad´, você pode dar um miau nos seus amigos e compartilhar ideias!    Basta buscar uma TAG e comerçar a utilizar!    Atenção: Não garantimos a integridade de seus dados, apenas a disponibilidade e a persistência até que um Padwan altere!</string>
+    <string name="app_name">MeawPad</string>
+    <string name="fab_description">Este botão serve para buscar uma tag</string>
+    <string name="textEdit_description">Digite o conteúdo aqui a serve salvo</string>
+</resources>

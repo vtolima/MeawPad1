@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeawPad</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="hint_tag">Introduzca su etiqueta aquí</string>
+    <string name="falta_tag">Introduzca una etiqueta para guardar</string>
+    <string name="welcome">Bienvenido al MeawPad</string>
+    <string name="explanation">Con el increíble MeawPad\', puedes dar un miau en tus amigos y compartir ideas! \n\n¡Basta con buscar una TAG y comer a utilizar! \n\n\nAtención: No garantizamos la integridad de sus datos, sólo la disponibilidad y la persistencia hasta que un Padwan cambie!</string>
+    <string name="erro_firebase">Error en la conexión con Firebase</string>
+    <string name="fab_description">Este botón sirve para buscar una etiqueta</string>
+    <string name="textEdit_description">Introduzca el contenido aquí a servir salvo</string>
+</resources>

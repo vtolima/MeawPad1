@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeawPad</string>
+    <string name="action_settings">設定</string>
+    <string name="erro_firebase">Firebaseに接続中にエラーが発生しました</string>
+    <string name="explanation">信じられないほどのMeawPad \'で、あなたの友人にヒープを与えてアイデアを共有することができます！ちょうどTAGを手に入れて、それを使い始めましょう！注意：Padwanが変更されるまでは、データの完全性、可用性および永続性のみを保証するものではありません。</string>
+    <string name="falta_tag">保存するタグを入力してください</string>
+    <string name="hint_tag">ここにあなたのタグを入力してください</string>
+    <string name="welcome">MeawPadへようこそ</string>
+    <string name="fab_description">このボタンは、タグを検索するために使用されます</string>
+    <string name="textEdit_description">保存されたコンテンツをここに入力してください</string>
+</resources>

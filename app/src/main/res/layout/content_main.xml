@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/activity_main"
+    android:orientation="vertical">
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/tagEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/hint_tag"
+            android:hint="@string/hint_tag"
+            android:maxLines="1"
+            android:text="@string/welcome" />
+
+
+    </android.support.design.widget.TextInputLayout>
+
+
+    <EditText
+        android:id="@+id/TextEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/textEdit_description"
+        android:ems="10"
+        android:gravity="start"
+        android:inputType="textMultiLine"
+        android:paddingBottom="@dimen/editText_small_margin"
+        android:paddingLeft="@dimen/editText_small_margin"
+        android:paddingRight="@dimen/editText_small_margin"
+        android:paddingTop="@dimen/editText_large_margin"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:text="@string/explanation" />
+</LinearLayout>

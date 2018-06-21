@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MeawPad</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_tag">Enter your tag here</string>
+    <string name="falta_tag">Enter a TAG to Save</string>
+    <string name="welcome">Welcome to MeawPad</string>
+    <string name="explanation">With the incredible MeawPad\', you can give a heap to your friends and share ideas! Just get a TAG and start using it! Attention: We do not guarantee the integrity of your data, only availability and persistence until a Padwan changes!</string>
+    <string name="erro_firebase">Error connecting to Firebase</string>
+    <string name="fab_description">This button is used to search for a tag</string>
+    <string name="textEdit_description">Enter content here to serve saved</string>
+
+
+
+</resources>

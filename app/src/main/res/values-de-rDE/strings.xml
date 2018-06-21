@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeawPad</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="erro_firebase">Fehler beim Herstellen einer Verbindung zu Firebase</string>
+    <string name="explanation">"Mit dem unglaublichen Meawpad können Sie Ihren Freunden einen Haufen geben und Ideen austauschen! Holen Sie sich einfach einen TAG und beginnen Sie damit! Achtung: Wir garantieren nicht für die Integrität Ihrer Daten, nur die Verfügbarkeit und Persistenz, bis sich ein Padwan ändert! "</string>
+    <string name="falta_tag">"Geben Sie einen TAG ein, um zu speichern "</string>
+    <string name="hint_tag">"Gib hier dein Tag ein "</string>
+    <string name="welcome">Willkommen bei MeawPad</string>
+    <string name="fab_description">Diese Schaltfläche wird verwendet, um nach einem Tag zu suchen</string>
+    <string name="textEdit_description">Geben Sie den Inhalt hier ein, um als gespeichert zu dienen</string>
+</resources>

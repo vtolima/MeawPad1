@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1006661881587",
+    "firebase_url": "https://meawpad.firebaseio.com",
+    "project_id": "meawpad",
+    "storage_bucket": "meawpad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006661881587:android:da62f024fe222e57",
+        "android_client_info": {
+          "package_name": "vto.com.br.meawpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006661881587-tv8e8vffnuskakjdh18c55k62kk6s9as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vto.com.br.meawpad",
+            "certificate_hash": "6eb5fd4c7f79830f34c0405ac8caa10c64f29820"
+          }
+        },
+        {
+          "client_id": "1006661881587-1a9lml7i2vdiqlcfq5gm7ito066es9vu.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1006661881587-1a9lml7i2vdiqlcfq5gm7ito066es9vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodT_qUq2ZQ17FUguFUY18vwJUz6LLegw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006661881587-1a9lml7i2vdiqlcfq5gm7ito066es9vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
